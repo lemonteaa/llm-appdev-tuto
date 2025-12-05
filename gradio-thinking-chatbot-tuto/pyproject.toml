@@ -1,0 +1,16 @@
+[project]
+name = "openai-sdk-tuto-1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "gradio>=5.23.1",
+    "markdownify>=1.2.0",
+    "openai>=2.7.1",
+    "public-ip>=0.12",
+    "pydantic>=2.12.4",
+    "searxng-wrapper>=0.1.1",
+    "selenium>=4.38.0",
+]
